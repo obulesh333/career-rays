@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+
+.carrer-us-section {
+    background-color: white;
+}
+
+.career-section-heading {
+    text-align: center;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.career-icon-container {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 18px;
+    padding-left: 25px;
+}
+
+.career-logo {
+    width: 115px;
+    height: 125px;
+}
+
+.about-us-section {
+    padding: 10px;
+    text-align: center;
+
+
+}
+
+.contact-us-section {
+    padding: 10px;
+    margin-left: 10px;
+    text-align: center;
+
+}
+
+.image-radius {
+    border-radius: 16px;
+}
+
+.carrer-section {
+    padding: 10px;
+    text-align: center;
+
+}
+
+.services-section {
+    padding: 10px;
+    text-align: center;
+}
+
+.our-section {
+    padding: 10px;
+    text-align: center;
+}
+
+.services-description {
+    font-family: "Helvetica";
+    font-size: 17px;
+    padding-left: 10px;
+
+}
+
+.carrer-description {
+    font-family: "Trebuchet MS";
+    font-size: 25px;
+    padding-left: 10px;
+
+}
+
+.image-spacing {
+    padding: 10px;
+}
+
+.about-us-description {
+    font-family: "Helvetica";
+    font-size: 20px;
+    padding-left: 10px;
+
+}
+
+.career-rays-heading {
+    padding-top: 80px;
+    padding-left: 10px;
+    color: #2F5E60;
+    font-weight: bold;
+    font-family: "Garamond";
+    background-color: #E2EDED;
+    text-align: center;
+}
+
+.heding {
+    padding-top: 100px;
+    margin-left: 10px;
+}
+
+
+
+.career-section {
+    background-color: #f9fbfe;
+}
+
+.career-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.career-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.career-card {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+
+.career-card-image {
+    width: 50px;
+    height: 70px;
+}
+
+.career-client-image {
+    width: 100px;
+    height: 90px;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.career-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.career-card-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+}
